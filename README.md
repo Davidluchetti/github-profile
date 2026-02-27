@@ -60,6 +60,16 @@
 
 ---
 
+## 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Davidluchetti/github-profile/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Davidluchetti/github-profile/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution activity" src="https://raw.githubusercontent.com/Davidluchetti/github-profile/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
 ## 🏆 Featured
 
 - 📊 [**Data Portfolio**](https://github.com/Davidluchetti/data-portfolio) — Architecture patterns, CDC/SCD, ETL migration guides, production templates
