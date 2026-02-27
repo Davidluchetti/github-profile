@@ -19,15 +19,13 @@
 
 ---
 
-## 👋 About
+## 👋 About / Sobre
 
-**Senior Data Engineer** with 6+ years architecting large-scale ETL/ELT pipelines and cloud data warehouses.
+🇺🇸 **EN** — Senior Data Engineer with 6+ years architecting large-scale ETL/ELT pipelines and cloud data warehouses. Expert in legacy migrations (DataStage→Snowflake, Informatica→Azure) and Medallion Architecture. Currently at XP Investimentos (equities/trading), also building [AmelAi](https://ameliacare.com.br) — medical SaaS on AWS.
 
-**Expertise:** Medallion Architecture • CDC/SCD patterns • Legacy migrations (DataStage→Snowflake, Informatica→Azure) • Databricks • Azure • GCP • PySpark • SQL • Apache Airflow
+🇧🇷 **PT** — Engenheiro de Dados Sênior com 6+ anos em pipelines ETL/ELT em larga escala e cloud data warehouses. Expert em migrações legadas (DataStage→Snowflake, Informatica→Azure) e Arquitetura Medallion. Atualmente na XP Investimentos (renda variável), e desenvolvendo o [AmelAi](https://ameliacare.com.br) — plataforma SaaS médica na AWS.
 
-**Experience:** XP Investimentos (equities) • Algar Telecom (legacy) • Danone Group (FMCG)
-
-**Current:** Building [AmelAi](https://ameliacare.com.br) — medical SaaS platform (React + NestJS + AWS)
+**Stack:** Databricks • Snowflake • Azure ADF • GCP • PySpark • SQL • Airflow • Delta Lake
 
 ---
 
