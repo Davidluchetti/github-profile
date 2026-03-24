@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
+    - cron: "*/5 * * * *"  # Every 5 minutes (GitHub Actions minimum)
   workflow_dispatch:
   push:
     branches: [main]
