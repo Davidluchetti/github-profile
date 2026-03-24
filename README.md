@@ -31,13 +31,27 @@ Side project: **[AmelAi](https://ameliacare.com.br)** — medical appointment Sa
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Azure ADF](https://img.shields.io/badge/Azure%20ADF-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP BigQuery](https://img.shields.io/badge/GCP%20BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Informatica IICS](https://img.shields.io/badge/Informatica%20IICS-FF6D00?style=flat-square&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat-square&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Experience
+
+| Period | Company | Role | Stack |
+|--------|---------|------|-------|
+| Aug 2025–present | **XP Investimentos** | Data Engineer | Databricks · ADF · ADLS · PySpark · MongoDB · Delta Lake · Airflow (Astro) · Azure Pipelines · SonarQube · Power BI |
+| Jun–Aug 2025 | **Algar Telecom / MUVz** | Senior DE — ETL Migration | Snowflake · IBM DataStage · SAP ECC/BI · Oracle Exadata · AWS S3/Redshift · Python |
+| Apr 2023–May 2025 | **Danone Group / LEEGA** | Full→Senior DE | Informatica PowerCenter · IICS · Azure ADF · Databricks · Snowflake · DB2 · SQL Server · ADLS · PySpark |
+| Jun–Jan 2023 | **BRFConsulting / RedPill Analytics** | Junior DE | Informatica IICS · Snowflake · Oracle DAC · REST APIs |
+| Feb 2021–Jun 2022 | **Tenbu** | Trainee→Junior DE | Python · Java · GCP · BigQuery · Informatica IICS/DEI · CI/CD |
+| Jan 2019–Jan 2021 | **Sintel S.A.** | BI Intern | SQL · data modeling |
 
 ---
 
